@@ -1,0 +1,36 @@
+@charset "utf=8";
+
+body{
+	font-size: 1em;
+}
+h1{
+	color: #66bbff;
+	
+}
+.btn-comum{
+	text-decoration: none;
+	background-color: #66bbff;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border: 0;
+	cursor: pointer;
+}
+.central{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column
+}
+.caixa-texto{
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+} 
+.img-superior{
+	width: 250px;
+	height: 150px;
+}
